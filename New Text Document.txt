@@ -1,0 +1,6 @@
+# this is an Ecommerce website designing based on some requirements
+#Angular
+# C#
+#dot net 
+# MongoDb
+# sdaf;l
